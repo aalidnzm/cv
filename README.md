@@ -12,6 +12,5 @@
 - [Twitter](https://twitter.com/ali_donmez) 🐦
 - [Kişisel Web Sitesi](https://www.alidonmez.com) 🌐
 
-⚡ Eğlenceli bir bilgi: Yazılım geliştirmeyi seven bir doğa tutkunuyum 🌲 ve hafta sonları doğada yürüyüş yapmayı tercih ediyorum 🏞️.
+⚡ Eğlenceli bir bilgi: Yazılım geliştirmeyi seven .......
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ali-donmez&show_icons=true) 📊
